@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enabled</key>
+	<array>
+		<true/>
+	</array>
+	<key>PathNames</key>
+	<array>
+		<string>Assets/Islands.unity</string>
+	</array>
+	<key>standaloneOSXIntel LastLocation</key>
+	<string>/Users/pbourke/projects/Unity/Island stereo/IslandStereo.app</string>
+	<key>standaloneOSXPPC LastLocation</key>
+	<string>/Users/pbourke/Island_stereo_PPC.app</string>
+	<key>standaloneOSXUniversal LastLocation</key>
+	<string>/Users/garenrees/Desktop/Island2.app</string>
+	<key>standaloneWin32 LastLocation</key>
+	<string>/Volumes/8GB_FAT/island_ivec</string>
+	<key>webplayer LastLocation</key>
+	<string>/Users/joe/examples/Island Demo/baba.unity3d</string>
+	<key>webplayer-lzma LastLocation</key>
+	<string>/Users/garenrees/Desktop/IslandWeb.unityweb</string>
+</dict>
+</plist>
