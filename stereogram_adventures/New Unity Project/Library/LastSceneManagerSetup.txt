@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/stereogram.unity
+- path: Assets/point_cloud.unity
   isLoaded: 1
   isActive: 1
